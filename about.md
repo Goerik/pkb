@@ -4,7 +4,7 @@ title: Об авторе
 permalink: /about/
 ---
 
-Женат. Проживаю в Астрахани. Работаю программистом.
+Женат. Родился в Астрахани. Живу в Санкт-Петербурге. Работаю программистом.
 
 Когда было время, писал на [Habrahabr](https://habrahabr.ru/users/Albertum/) и [Geektimes](https://geektimes.ru/users/Albertum/)
 
